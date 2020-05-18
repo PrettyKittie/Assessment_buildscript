@@ -13,9 +13,11 @@ Just a simple bash script to automate the initial setup of a fresh Kali install.
 
 2)  Install necessary packages
 
-3)  Remove unnecessary packages
+3)  Download useful binaries
 
-4)  Configure the environment
+4)  Remove unnecessary packages
+
+5)  Configure the environment
 
 
 *Presumptions*
